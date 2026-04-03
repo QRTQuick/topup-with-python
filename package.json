@@ -1,0 +1,8 @@
+{
+  "name": "topup-with-python",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "python -m http.server 4173"
+  }
+}
